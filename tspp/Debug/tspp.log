@@ -1,3 +1,4 @@
 ﻿  tspp.cpp
-c:\users\1\source\repos\tspp\tspp\tspp.cpp(93): warning C4101: 'flag': unreferenced local variable
+c:\users\1\source\repos\tspp\tspp\tspp.cpp(102): warning C4101: 'flag': unreferenced local variable
+c:\users\1\source\repos\tspp\tspp\tspp.cpp(101): warning C4101: 'numtel': unreferenced local variable
   tspp.vcxproj -> C:\Users\1\source\repos\tspp\Debug\tspp.exe
